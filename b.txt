@@ -1,1 +1,2 @@
 text file b, the second
+an addition to text file b
