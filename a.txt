@@ -1,1 +1,3 @@
 text file a, the first
+an addition to text file a
+an additional addition to text file a
